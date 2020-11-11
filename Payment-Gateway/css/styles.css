@@ -1,0 +1,29 @@
+/* index.html */
+.index-mid {
+    text-align: center;
+    margin: 14rem auto;
+}
+
+.index-mid .upper-text{
+    color: aqua;
+}
+
+
+
+/* contact page */
+.contact-page {
+    background-image: url('img/contact-img.jpg');
+}
+
+.contact-form {
+    padding: 2rem;
+    position: relative;   
+    left: 5rem;
+    top: 15rem;
+}
+
+.card{
+    text-align: center;
+    position: relative;
+    margin: 7rem auto;
+}
